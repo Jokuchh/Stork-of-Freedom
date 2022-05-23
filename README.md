@@ -10,4 +10,4 @@ Mission statement
 
 Organisation process
 
-![Uploading Team_JOKИ4_2.png…]()
+
