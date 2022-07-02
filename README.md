@@ -1,4 +1,4 @@
-# stork-reedom
+# Stork-of-Freedom
 
 Web-page for Charity NFT project
 
